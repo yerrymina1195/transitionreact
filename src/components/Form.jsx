@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React from "react";
 import styled from "styled-components";
 import { animations, presets } from "../data";
 import { FieldSelect } from "./FieldSelect";
